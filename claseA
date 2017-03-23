@@ -1,6 +1,7 @@
 public class claseA
 {
-  private int x;
+  private double x;
+  private String y;
   
   public claseA()
   {
